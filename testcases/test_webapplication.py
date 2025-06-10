@@ -31,4 +31,5 @@ for context in driver.contexts:
 driver.get("https://www.google.com")
 print("Launching google search screen")
 print("Page title:", driver.title)
+time.sleep(3)
 driver.quit()
