@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="458b6035-613a-44da-8c2c-77fed003feb4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/testcases/test_webapplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_webapplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/test_wekipedia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.test_webapplication.executor": "Run",
+    "Python.test_wekipedia.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
